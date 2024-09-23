@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendationAPI", "RecommendationAPI\RecommendationAPI.csproj", "{BB32BBDB-4DDF-470C-8FAA-1920209740F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB32BBDB-4DDF-470C-8FAA-1920209740F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB32BBDB-4DDF-470C-8FAA-1920209740F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB32BBDB-4DDF-470C-8FAA-1920209740F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB32BBDB-4DDF-470C-8FAA-1920209740F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB900002-8450-4B14-B91D-CECB6FFB3FE7}
+	EndGlobalSection
+EndGlobal
