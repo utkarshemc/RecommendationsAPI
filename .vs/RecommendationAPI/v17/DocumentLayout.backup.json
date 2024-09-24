@@ -64,9 +64,10 @@
               "RelativeDocumentMoniker": "RecommendationAPI\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\ubhardwaj\\source\\repos\\RecommendationAPI\\RecommendationAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "RecommendationAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T01:11:55.884Z"
+              "WhenOpened": "2024-09-20T01:11:55.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,7 +89,7 @@
               "RelativeDocumentMoniker": "RecommendationAPI\\Model\\User.cs",
               "ToolTip": "C:\\Users\\ubhardwaj\\source\\repos\\RecommendationAPI\\RecommendationAPI\\Model\\User.cs",
               "RelativeToolTip": "RecommendationAPI\\Model\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAZwBEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIAjwBoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T01:09:43.058Z",
               "EditorCaption": ""
@@ -101,7 +102,7 @@
               "RelativeDocumentMoniker": "RecommendationAPI\\Services\\CosmosDbService.cs",
               "ToolTip": "C:\\Users\\ubhardwaj\\source\\repos\\RecommendationAPI\\RecommendationAPI\\Services\\CosmosDbService.cs",
               "RelativeToolTip": "RecommendationAPI\\Services\\CosmosDbService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAARwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T00:58:42.737Z",
               "EditorCaption": ""
